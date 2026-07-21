@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "pluginId": "com.harborclient.plugins.ayu-mirage",
-  "pluginVersion": "1.0.1",
+  "pluginVersion": "1.0.2",
   "algorithm": "Ed25519",
   "files": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "path": "manifest.json",
-      "sha256": "31ab5689483585aa1fa5a4523401769ae34f0dc64cce3adb6a6b8daacc89b48b"
+      "sha256": "ec38f2be8106fdab17b3bef093462b6576cfe8c69160d0e1aacf94efff7a6033"
     },
     {
       "path": "package.json",
@@ -46,5 +46,5 @@
     }
   ],
   "keyId": "com.harborclient.plugins.ayu-mirage",
-  "signature": "dIrApdf3bpSX5BNvBH1gc5Sb7Rtyd7+5WcLK22igrqdLeVVoVRgFlqqP+GW4arSzXwuBNT/oEioI4caDTmD1DA=="
+  "signature": "3B+erW9KeoLLdcp+CEhKzjRovLITf1TMrB75UW1TZkQOdaeE10fNfTOV0qcGKk6hrQ6ya7QbO+NIWpb8NrRJDQ=="
 }
