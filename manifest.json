@@ -1,0 +1,30 @@
+{
+  "id": "com.harborclient.plugins.ayu-mirage",
+  "name": "Ayu Mirage Theme",
+  "version": "1.0.0",
+  "author": "HarborClient",
+  "description": "README.md",
+  "summary": "An Ayu Mirage dark theme for HarborClient.",
+  "categories": ["themes", "dark"],
+  "screenshots": [
+    "https://raw.githubusercontent.com/harborclient/plugin-ayu-mirage/main/screenshot.png"
+  ],
+  "homepage": "https://github.com/harborclient/plugin-ayu-mirage",
+  "bugs": {
+    "url": "https://github.com/harborclient/plugin-ayu-mirage/issues"
+  },
+  "engines": {
+    "harborclient": ">=2.5.0"
+  },
+  "permissions": ["ui"],
+  "contributes": {
+    "themes": [
+      {
+        "id": "ayu-mirage",
+        "title": "Ayu Mirage",
+        "type": "dark",
+        "import": "exported.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "harborclientVersion": 1,
+  "harborclientExport": "theme",
+  "title": "Ayu Mirage",
+  "type": "dark",
+  "theme": {
+    "surface": "#242936",
+    "sidebar": "#1f2430",
+    "sidebar-section": "#2a3040",
+    "control": "#343d55",
+    "field": "rgba(255, 255, 255, 0.06)",
+    "separator": "rgba(255, 255, 255, 0.1)",
+    "text": "#cccac2",
+    "text-secondary": "#b8c0cc",
+    "muted": "#707a8c",
+    "accent": "#ffcc66",
+    "selection": "rgba(255, 204, 102, 0.25)",
+    "danger": "#f28779",
+    "warning": "#ffad66",
+    "success": "#87d96c"
+  }
+}
