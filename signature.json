@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "pluginId": "com.harborclient.plugins.ayu-mirage",
+  "pluginVersion": "1.0.1",
+  "algorithm": "Ed25519",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "88ad380decbd9a1a6659c573833c96932dab32e7e0e88fa3353c98f758cd10b3"
+    },
+    {
+      "path": "exported.json",
+      "sha256": "d08f297917fb12decd405f4dbdf9ce15a0d2ee1be433584c0ac3fd293d9c7339"
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "31ab5689483585aa1fa5a4523401769ae34f0dc64cce3adb6a6b8daacc89b48b"
+    },
+    {
+      "path": "package.json",
+      "sha256": "a9525aef59e6cc1169c7b08b0c5d6252ad1553a5260bb85fda9fb92da99893e4"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "sha256": "104897643eccd76aabc902c1596a859993816252284fd306cceea6c185d2ab1f"
+    },
+    {
+      "path": "README.md",
+      "sha256": "46a81f18716fdc6baf7abd7b2f200b9caaaa58f7f60036f436f4454dc959fc16"
+    },
+    {
+      "path": "screenshot.png",
+      "sha256": "cc154ae5aff117a5e7234a1858fe84ce7f1a83cb6ef747c547f0a061a17a9f56"
+    },
+    {
+      "path": "scripts/plugin-sign.ts",
+      "sha256": "dc21f6daa2c0d454b53cc719524f41669c1f1a0319b80b50dc1f0b3fa3f796e3"
+    },
+    {
+      "path": "scripts/plugin-verify.ts",
+      "sha256": "555f897860b881817f6aa66a933a38fb31388b461b8fa1e9e9b6126b67bc18e0"
+    },
+    {
+      "path": "scripts/publish.sh",
+      "sha256": "dc3b65fefa4ab9c395de78808bedaca41a6f49a45baecea878f8db8c24ebd2f6"
+    }
+  ],
+  "keyId": "com.harborclient.plugins.ayu-mirage",
+  "signature": "dIrApdf3bpSX5BNvBH1gc5Sb7Rtyd7+5WcLK22igrqdLeVVoVRgFlqqP+GW4arSzXwuBNT/oEioI4caDTmD1DA=="
+}
